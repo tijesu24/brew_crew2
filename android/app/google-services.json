@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1039143016241",
+    "firebase_url": "https://frustration-test.firebaseio.com",
+    "project_id": "frustration-test",
+    "storage_bucket": "frustration-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039143016241:android:c88c10e127d0d96222c210",
+        "android_client_info": {
+          "package_name": "com.thenetninja.brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039143016241-ubiiv7mfnd300cojn8iq8jqdnec32i45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtg3iSjWwlFOSWaHxE9-6UtyAijzGwgxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039143016241-ubiiv7mfnd300cojn8iq8jqdnec32i45.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
